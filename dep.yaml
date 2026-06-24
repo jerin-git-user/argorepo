@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: dep_cv
+  name: dep-cv
   namespace: jerinraj
   annotations:
     kubernetes.io/change-cause: "Original"
