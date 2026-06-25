@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: c1
-        image: nginx
+        image: jcvdocker/nginxdemos:latest
       - name: c2
         image: redis
